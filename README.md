@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-Coming soon.
+```
+Icy.require_tree 'my_dir' # require every ruby file in this directory
+```
 
 ## Contributing
 
